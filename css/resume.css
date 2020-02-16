@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: rgb(23,162,184);
 }
 
 .dev-icons {
@@ -139,10 +139,6 @@ section.resume-section {
   max-width: 75rem;
 }
 
-section.resume-section .resume-item .resume-date {
-  min-width: none;
-}
-
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
@@ -168,7 +164,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #BD5D38;
+  color: rgb(23,162,184);
 }
 
 a:hover, a:focus, a:active {
