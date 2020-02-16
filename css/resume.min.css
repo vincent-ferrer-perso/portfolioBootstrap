@@ -176,3 +176,12 @@ a {
 a:active,a:focus,a:hover {
     color:rgb(23,162,184);
 }
+
+.logo {
+    height: 58px;
+    padding-bottom: 10px;
+}
+
+.logo:hover {
+    fill:rgb(23,162,184);
+}
