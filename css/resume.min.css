@@ -191,7 +191,7 @@ a:active,a:focus,a:hover {
 }
 .icon-c:hover,
 .icon-c:focus {
-    filter: sepia(50%) saturate(8000%) hue-rotate(152deg) grayscale(0.38);
+    filter: sepia(45%) saturate(10000%) hue-rotate(145deg) brightness(0.84);
 }
 
 /* fin symbole c++ */
