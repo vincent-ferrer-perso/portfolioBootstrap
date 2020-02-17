@@ -177,11 +177,21 @@ a:active,a:focus,a:hover {
     color:rgb(23,162,184);
 }
 
-.logo {
-    height: 58px;
-    padding-bottom: 10px;
+/* symbole c++ */
+.icon {
+    display: inline-block;
+    width: 55px;
+    height: 55px;
+    background-size: cover;
+    transform: translateY(10px);
 }
 
-.logo:hover {
-    fill:rgb(23,162,184);
+.icon-c {
+    background-image: url("../img/c++.png");
 }
+.icon-c:hover,
+.icon-c:focus {
+    filter: sepia(50%) saturate(8000%) hue-rotate(152deg) grayscale(0.38);
+}
+
+/* fin symbole c++ */
